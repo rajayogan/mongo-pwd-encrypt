@@ -1,0 +1,15 @@
+{
+  "name": "raja",
+  "version": "0.1.0",
+  "description": "mongoose test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajayogan <rajayogan27@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "bcrypt": "^0.8.2",
+    "mongoose": "^4.0.1"
+  }
+}
