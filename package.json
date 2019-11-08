@@ -10,6 +10,6 @@
   "license": "MIT",
   "devDependencies": {
     "bcrypt": "^0.8.2",
-    "mongoose": "^4.0.1"
+    "mongoose": "^5.7.8"
   }
 }
